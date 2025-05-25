@@ -1,0 +1,2 @@
+Customer ID: 105, Name: Amrit, Address: Kathmandu, Units Consumed: 150, Total Bill: $ 750.0
+Customer ID: 0, Name: Amrit, Address: Lexington, Units Consumed: 150, Total Bill: $750.0
